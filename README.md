@@ -1,6 +1,6 @@
 ### Hi, I'm Saksham 👋
 
-I work on Linux systems, ARM64 hardware bring-up, build/CI automation, and on-device AI.
+I am currently working on Linux systems, ARM64 hardware bring-up, build/CI automation, and on-device AI.
 
 #### What I'm Building
 * **[`uke-fedora`](https://github.com/saksham-991/uke-fedora)** — Core contributor porting Fedora 44 (Wayland/KDE/Hyprland) to Snapdragon ARM64 tablets: Adreno GPU acceleration, quad-speaker audio, peripheral drivers, and CI build pipelines).
