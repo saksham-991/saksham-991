@@ -13,4 +13,4 @@ I work on Linux systems, ARM64 hardware bring-up, build/CI automation, and on-de
 * **Systems & Kernel:** Linux, ARM64, C++, Shell
 * **Graphics & Media:** Linux graphics & audio stacks
 * **Tooling & Automation:** Git, Docker / Podman, GitHub Actions, Python
-* 
+
