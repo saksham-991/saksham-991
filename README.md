@@ -8,7 +8,7 @@ I work on Linux systems, ARM64 hardware bring-up, build/CI automation, and on-de
 * **[`xiaomi-pad7-npu-llm`](https://github.com/saksham-991/xiaomi-pad7-npu-llm)** — Quantized local LLM inference running on Qualcomm Hexagon NPU hardware.
   
 * **[`xiaomi-keyboard-fix`]
-* (https://github.com/saksham-991/xiaomi-keyboard-fix)** — HID rebinding, input mapping, and peripheral authentication fixes for custom Android ROMs.
+(https://github.com/saksham-991/xiaomi-keyboard-fix)** — HID rebinding, input mapping, and peripheral authentication fixes for custom Android ROMs.
 
 #### Stack
 `Linux Kernel` • `ARM64` • `Wayland / Mesa` • `ALSA / WirePlumber` • `Docker / Podman` • `GitHub Actions` • `C++ / Python / Shell`
