@@ -10,4 +10,7 @@ I work on Linux systems, ARM64 hardware bring-up, build/CI automation, and on-de
 * **[`xiaomi-keyboard-fix`](https://github.com/saksham-991/xiaomi-keyboard-fix)** — HID rebinding, input mapping, and peripheral authentication fixes for custom Android ROMs.
   
 #### Stack
-`Linux Kernel` • `ARM64` • `Wayland / Mesa` • `ALSA / WirePlumber` • `Docker / Podman` • `GitHub Actions` • `C++ / Python / Shell`
+* **Systems & Kernel:** Linux, ARM64, C++, Shell
+* **Graphics & Media:** Linux graphics & audio stacks
+* **Tooling & Automation:** Git, Docker / Podman, GitHub Actions, Python
+* 
